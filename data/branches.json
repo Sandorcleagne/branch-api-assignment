@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "branchCode": "BR001",
+    "branchName": "Downtown Branch",
+    "branchCity": "New York",
+    "branchState": "NY",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "id": 2,
+    "branchCode": "BR002",
+    "branchName": "Central Branch",
+    "branchCity": "Los Angeles",
+    "branchState": "CA",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": 3,
+    "branchCode": "BR003",
+    "branchName": "Beachside Branch",
+    "branchCity": "Miami",
+    "branchState": "FL",
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  {
+    "id": 4,
+    "branchCode": "BR004",
+    "branchName": "Uptown Branch",
+    "branchCity": "Chicago",
+    "branchState": "IL",
+    "latitude": 41.8781,
+    "longitude": -87.6298
+  },
+  {
+    "id": 5,
+    "branchCode": "BR005",
+    "branchName": "Suburban Branch",
+    "branchCity": "Dallas",
+    "branchState": "TX",
+    "latitude": 32.7767,
+    "longitude": -96.797
+  },
+  {
+    "id": 6,
+    "branchCode": "BR006",
+    "branchName": "Mountain View Branch",
+    "branchCity": "Denver",
+    "branchState": "CO",
+    "latitude": 39.7392,
+    "longitude": -104.9903
+  },
+  {
+    "id": 7,
+    "branchCode": "BR007",
+    "branchName": "Bay Area Branch",
+    "branchCity": "San Francisco",
+    "branchState": "CA",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": 8,
+    "branchCode": "BR008",
+    "branchName": "Desert Branch",
+    "branchCity": "Phoenix",
+    "branchState": "AZ",
+    "latitude": 33.4484,
+    "longitude": -112.074
+  },
+  {
+    "id": 9,
+    "branchCode": "BR009",
+    "branchName": "Riverwalk Branch",
+    "branchCity": "San Antonio",
+    "branchState": "TX",
+    "latitude": 29.4241,
+    "longitude": -98.4936
+  },
+  {
+    "id": 10,
+    "branchCode": "BR010",
+    "branchName": "Broadway Branch",
+    "branchCity": "Nashville",
+    "branchState": "TN",
+    "latitude": 36.1627,
+    "longitude": -86.7816
+  },
+  {
+    "id": 11,
+    "branchCode": "BR011",
+    "branchName": "Lakeside Branch",
+    "branchCity": "Minneapolis",
+    "branchState": "MN",
+    "latitude": 44.9778,
+    "longitude": -93.265
+  },
+  {
+    "id": 12,
+    "branchCode": "BR012",
+    "branchName": "Capitol Branch",
+    "branchCity": "Washington",
+    "branchState": "DC",
+    "latitude": 38.9072,
+    "longitude": -77.0369
+  },
+  {
+    "id": 13,
+    "branchCode": "BR013",
+    "branchName": "Historic Branch",
+    "branchCity": "Boston",
+    "branchState": "MA",
+    "latitude": 42.3601,
+    "longitude": -71.0589
+  },
+  {
+    "id": 14,
+    "branchCode": "BR014",
+    "branchName": "Harbor Branch",
+    "branchCity": "Seattle",
+    "branchState": "WA",
+    "latitude": 47.6062,
+    "longitude": -122.3321
+  },
+  {
+    "id": 15,
+    "branchCode": "BR015",
+    "branchName": "Music City Branch",
+    "branchCity": "Memphis",
+    "branchState": "TN",
+    "latitude": 35.1495,
+    "longitude": -90.049
+  },
+  {
+    "id": 16,
+    "branchCode": "BR016",
+    "branchName": "Sunshine Branch",
+    "branchCity": "Orlando",
+    "branchState": "FL",
+    "latitude": 28.5383,
+    "longitude": -81.3792
+  },
+  {
+    "id": 17,
+    "branchCode": "BR017",
+    "branchName": "Steel City Branch",
+    "branchCity": "Pittsburgh",
+    "branchState": "PA",
+    "latitude": 40.4406,
+    "longitude": -79.9959
+  },
+  {
+    "id": 18,
+    "branchCode": "BR018",
+    "branchName": "Alamo Branch",
+    "branchCity": "El Paso",
+    "branchState": "TX",
+    "latitude": 31.7619,
+    "longitude": -106.485
+  },
+  {
+    "id": 19,
+    "branchCode": "BR019",
+    "branchName": "Gateway Branch",
+    "branchCity": "St. Louis",
+    "branchState": "MO",
+    "latitude": 38.627,
+    "longitude": -90.1994
+  },
+  {
+    "id": 20,
+    "branchCode": "BR020",
+    "branchName": "Twin Cities Branch",
+    "branchCity": "St. Paul",
+    "branchState": "MN",
+    "latitude": 44.9537,
+    "longitude": -93.09
+  }
+]
