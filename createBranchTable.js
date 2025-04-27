@@ -28,7 +28,6 @@ const branches = [
 ];
 
 db.serialize(() => {
-  // 1. Create the table if not exists
   db.run(`CREATE TABLE IF NOT EXISTS branches (
     id INTEGER PRIMARY KEY,
     branchCode TEXT,
@@ -39,10 +38,8 @@ db.serialize(() => {
     longitude REAL
   )`);
 
-  // 2. Clear existing data (optional if you re-run script)
   db.run(`DELETE FROM branches`);
 
-  // 3. Insert multiple branches
   const stmt = db.prepare(
     `INSERT INTO branches (id, branchCode, branchName, branchCity, branchState, latitude, longitude) VALUES (?, ?, ?, ?, ?, ?, ?)`
   );
@@ -52,7 +49,6 @@ db.serialize(() => {
   });
 
   stmt.finalize();
-  console.log("✅ Sample 20 branches inserted successfully!");
 });
 
 db.close();
