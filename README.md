@@ -10,7 +10,7 @@ This project is a RESTful API built using Node.js and Express.js that allows use
 
 - Node.js
 - Express.js
-- SQLite (or JSON file for simple database)
+- SQLite
 - Swagger (API Documentation)
 
 ## Getting Started
