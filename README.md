@@ -16,7 +16,7 @@ This project is a RESTful API built using Node.js and Express.js that allows use
 ## Getting Started
 
 1. Clone the project
-   git clone <repo-url>
+   git clone <repo-url> // git clone https://github.com/Sandorcleagne/branch-api-assignment.git
    cd branch-api
 
 2. Install dependencies
